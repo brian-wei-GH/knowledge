@@ -1,2 +1,2 @@
 # knowledge
-this repository is stored knowledge
+This repository contains stored knowledge.
