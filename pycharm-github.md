@@ -1,4 +1,4 @@
-# PyCharm -- GitHub repository
+# PyCharm <-- GitHub repository
 
 ```textile
 using django as an example
