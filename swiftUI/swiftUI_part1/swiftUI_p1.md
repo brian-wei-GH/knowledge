@@ -3753,7 +3753,7 @@ struct NewViewBadge: View {
 
 <img src="assets/7f392f44fdc5a77164c2531a0f92d18df114caff.png" title="" alt="Screenshot 2025-03-09 at 11.02.51 PM.png" width="201">
 
-## 6.7 P73 Grid (IOS 15/16+)
+## 6.7 Grid (IOS 15/16+)
 
 SwiftUI introduced **grids** (`LazyVGrid` and `LazyHGrid`) in **iOS 14**, but in **iOS 16**, a new `Grid` API was introduced, making grids more intuitive and flexible.
 
