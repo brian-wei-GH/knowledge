@@ -337,6 +337,27 @@ struct MyItem: View {
 }
 ```
 
+## 2.6 preview 
+simplify in swift 5.9 
+- example: single preview
+```swift
+#Preview {
+    ContentView()
+}
+
+```
+- example: multiple previews
+```swift
+#Preview {
+    ContentView()
+}
+
+#Preview {
+    ContentView2()
+}
+
+```
+
 # 3. Foundational UI Components
 
 ## 3.1 Text()
