@@ -190,7 +190,11 @@ print("Debug mode is active.")
 
 ## 2.4 extract functions & views
 
-make sure body is always nice and clean
+make sure body is always nice and clean.
+
+"Apple encourages you to create as many views as you need to keep your code easy to read."
+
+This means you can—and should—create multiple .swift files for different views instead of keeping everything in one file.
 
 - example: call `bottonPress` function
 
