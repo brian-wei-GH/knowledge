@@ -1,4 +1,4 @@
-# 7. navigation & presentation
+# 7. Navigation & Presentation
 
 ## 7.1 .sheet() & .fullScreenCover()
 
@@ -256,7 +256,7 @@ struct NewViewSTA: View {
 
 <img title="" src="assets/86cc95d9fd10745111b2a10e33f1a2f9732093fa.png" alt="Screenshot 2025-03-11 at 1.02.30 AM.png" width="125">
 
-## 7.3 p31 <u>NavigationView() (old)</u> & NavigationLink() & <u>NavigationStack() (IOS 16+)</u>
+## 7.3 <u>NavigationView() (old)</u> & NavigationLink() & <u>NavigationStack() (IOS 16+)</u>
 
 In SwiftUI, `NavigationView` and `NavigationLink` are used to **create navigation-based interfaces** where users can move between different views.
 
@@ -1593,7 +1593,7 @@ struct NewViewNAnimation: View {
 
 <img src="assets/30406d18f3e6fd2ef69752707dab99a787f933ef.png" title="" alt="Screenshot 2025-03-12 at 6.34.02 PM.png" width="225">
 
-# 9. User input & forms
+# 9. User Input & Forms
 
 ## 9.1 TexField()
 
@@ -2470,7 +2470,7 @@ struct NewViewSlider: View {
 
 <img src="assets/0a5f7f6ee9e6e56966e14416bb1b2e0198817e10.png" title="" alt="Screenshot 2025-03-15 at 3.54.02 PM.png" width="238">
 
-# 10. advanced data handling
+# 10. Advanced Data Handling
 
 ## 10.1 custom data types
 
