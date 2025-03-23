@@ -82,3 +82,66 @@
 6.6 .badge()
 
 6.7 Grid (IOS 15/16+)
+
+# 7. Navigation & Presentation
+7.1 .sheet() & .fullScreenCover()
+
+7.2 .sheet() & .transition() & .animation()
+
+7.3 NavigationView() (old)</u> & NavigationLink() & <u>NavigationStack() (IOS 16+)
+
+7.4 .alert()
+
+7.5 .confirmationDialog()
+
+7.6 .contextMenu()
+
+7.7 .toolbar
+
+7.8 resize sheet (combine with 7.2)
+
+7.9 .popover()
+
+7.10 NavigationSplitView
+
+# 8. Animations
+8.1 .animation() & withAnimation
+
+# 9. User Input & Forms
+9.1 TexField()
+
+9.2 TextEditor()
+
+9.3 Toggle (switch)
+
+9.4 Picker()
+
+9.5 ColorPicker()
+
+9.6 DatePicker
+
+9.7 Stepper
+
+9.8 Slider
+
+# 10. Advanced Data Handling
+10.1 custom data types
+
+10.2 @StateObject / @ObservableObject
+
+10.3 @EnvironmentObject
+
+10.4 more details for 3 objects
+
+10.5 @AppStorage
+
+10.6 @Observable macro
+
+# 11. Advanced UI
+11.1 TabView() & Page TabViewStyle()
+
+11.2 menu (IOS)
+
+11.3 ContentUnavailableView
+
+11.4 ControlGroup
