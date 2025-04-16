@@ -3434,8 +3434,18 @@ summary:
 
 - And store the **actual file** (e.g. image, video) using FileManager.
 
----
+| Directory | Auto-deleted | iCloud backup | Use case |
+| --------- | ------------ | ------------- | -------- |
+| `cachesDirectory` | ✅ Yes | ❌ No | Temporary files you can re-fetch |
+| `documentDirectory` | ❌ No | ✅ Yes | User-generated or visible data |
+| `applicationSupport` | ❌ No | ✅ Yes | App-internal support data |
 
+- If you have a **Machine Learning model** → use `applicationSupportDirectory`
+- If you have a list of **crypto images**:
+  - Use `documentDirectory` if you want to **persist** them long-term
+  - Use `cachesDirectory` if you only need them for **short-term cache**
+
+---
 - example: store the data inside example.txt file and export to file app
 
 ```swift
