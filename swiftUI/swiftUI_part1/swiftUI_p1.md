@@ -31,9 +31,9 @@ SwiftUI => release 2019 (very new) (IOS Future)
 
 7. Host in CloudKit: if enable, it allows the app to store data in Apple's **CloudKit**.
 
-## 1.1 GitHub NOT finished yet
+## 1.1 GitHub 
 
-...
+check xcode_github folder
 
 # 2. Xcode Basic Knowledge
 
